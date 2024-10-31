@@ -4,24 +4,32 @@
 
 ### 1. Living dangerously
 
-**답: form.txt에 내용 추가**
+**답:** form.txt 수정 후 save 
 
 ### 2. Making backups
 
-**답: form2_really_final.txt 에 내용 추가**
+**답:** from2_really_final.txt 수정 후 save
 
 ### 3. Enter the time machine
 
-**답: git init 버튼 누르기**
+**답:** git init 
 
 ### 4. The command line
 
-**답: git init 작성하기**
+**답:** git init
 
 ### 5. Your first commit
 
-**답: 1.커밋하고 2.glass에 내용 추가 3.두번째 커밋**
+**답:** 
+1. git add glass 
+2. git commit -m "commit"
+3. glass 수정 
+4. git commit -am "second commit"
 
 ### 6. Working together
 
-**답: 1.git pull 2.students에 이름 추가 3.커밋 4.git push**
+**답:**
+1. git pull
+2. 파일 수정
+3. git commit -am "commit"
+4. git push
