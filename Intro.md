@@ -12,7 +12,7 @@
 
 ### 3. Enter the time machine
 
-**답: git init 카드를 drag해서 빈 공간 위에 drop한다**
+**답: 터미널에 git init 입력**
 
 ### 4. The command line
 
