@@ -23,11 +23,11 @@
 ### 4. I pushed something broken
 
 **답:**
-1. 잘못된 내용을 추가해버린 커밋의 해시로 git revert <해시> 명령어를 사용해서 잘못된 내용이 없이 새 커밋 가능
+1. 잘못된 내용을 추가해버린 커밋의 해시로 git revert <해시> 명령어를 사용해서 잘못된 내용을 제외시킨 상태로 새 커밋하기
 2. git push 명령어로 team(원격 저장소)의 main 브랜치가 잘못된 내용이 없는 새 커밋을 가리키도록 수정
 
 ### 5. Go back to where you were before
 
 **답:**
-1. git reflog 명령어를 사용하여 과거에 어떤 브랜치로 git checkout 명령어를 통해 이동했는지 로그 확인(로그 상으로는 "3")
-2. git checkout 명령어로 과거에 이동했던 브랜치로 다시 이동하여 확인
+1. git reflog 명령어를 사용하여 과거에 어떤 브랜치로 git checkout 명령어를 통해 이동했는지 로그 확인
+2. git checkout 명령어로 과거에 이동했던 브랜치로 다시 이동
