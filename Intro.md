@@ -12,11 +12,11 @@
 
 ### 3. Enter the time machine
 
-**답: "git init" 버튼 누르기**
+**답: 터미널에 'git init' 타이핑하기**
 
 ### 4. The command line
 
-**답: 터미널에 'git init' 타이핑하기**
+**답: 3번 문제와 동일**
 
 ### 5. Your first commit
 
