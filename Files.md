@@ -5,7 +5,7 @@
 ### 1. Unexpected Roommates
 
 **답:**
-"rm *web" 명령어로 이름이 web으로 끝나는 파일들을 모두 삭제
+rm *web 명령어로 이름이 web으로 끝나는 파일들을 모두 삭제
 
 ### 2. Interior design
 
